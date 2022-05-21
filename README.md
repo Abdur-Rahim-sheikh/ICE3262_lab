@@ -13,10 +13,7 @@
 5. [ ] Implementation of modulation and demodulation using ASK, FSK and PSK
 
 ## Theoritical Basics
-![page1](theory/ice1.jpg =100*100)
-
-![page2](theory/ice2.jpg =100*100)
-
-![page3](theory/ice3.jpg =100*100)
-
-![page4](theory/ice4.jpg =100*100)
+![page1](theory/ice1.jpg)
+![page2](theory/ice2.jpg)
+![page3](theory/ice3.jpg)
+![page4](theory/ice4.jpg)
